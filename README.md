@@ -8,3 +8,5 @@ I wrote this for two reasons:
  2. I want to keep experimenting with Go
 
 This tool doesn't really exercise the run-time power of Go, but every little bit helps. I'm sure there are a ton of improvements which could be made to this code, I'll happily accept pull requests.
+
+If you want to verify signed commits, my key is available on the public key servers or via `git show maintainer-pgp-pub | gpg --import`.
